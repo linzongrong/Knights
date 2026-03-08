@@ -1,0 +1,6939 @@
+{
+  "100000": {
+    "name": "中国",
+    "center": [
+      116.405285,
+      39.904989
+    ],
+    "centroid": [
+      116.405285,
+      39.904989
+    ],
+    "level": "country",
+    "children": [
+      {
+        "adcode": "11",
+        "name": "北京市"
+      },
+      {
+        "adcode": "12",
+        "name": "天津市"
+      },
+      {
+        "adcode": "13",
+        "name": "河北省"
+      },
+      {
+        "adcode": "14",
+        "name": "山西省"
+      },
+      {
+        "adcode": "15",
+        "name": "内蒙古自治区"
+      },
+      {
+        "adcode": "21",
+        "name": "辽宁省"
+      },
+      {
+        "adcode": "22",
+        "name": "吉林省"
+      },
+      {
+        "adcode": "23",
+        "name": "黑龙江省"
+      },
+      {
+        "adcode": "31",
+        "name": "上海市"
+      },
+      {
+        "adcode": "32",
+        "name": "江苏省"
+      },
+      {
+        "adcode": "33",
+        "name": "浙江省"
+      },
+      {
+        "adcode": "34",
+        "name": "安徽省"
+      },
+      {
+        "adcode": "35",
+        "name": "福建省"
+      },
+      {
+        "adcode": "36",
+        "name": "江西省"
+      },
+      {
+        "adcode": "37",
+        "name": "山东省"
+      },
+      {
+        "adcode": "41",
+        "name": "河南省"
+      },
+      {
+        "adcode": "42",
+        "name": "湖北省"
+      },
+      {
+        "adcode": "43",
+        "name": "湖南省"
+      },
+      {
+        "adcode": "44",
+        "name": "广东省"
+      },
+      {
+        "adcode": "45",
+        "name": "广西壮族自治区"
+      },
+      {
+        "adcode": "46",
+        "name": "海南省"
+      },
+      {
+        "adcode": "50",
+        "name": "重庆市"
+      },
+      {
+        "adcode": "51",
+        "name": "四川省"
+      },
+      {
+        "adcode": "52",
+        "name": "贵州省"
+      },
+      {
+        "adcode": "53",
+        "name": "云南省"
+      },
+      {
+        "adcode": "54",
+        "name": "西藏自治区"
+      },
+      {
+        "adcode": "61",
+        "name": "陕西省"
+      },
+      {
+        "adcode": "62",
+        "name": "甘肃省"
+      },
+      {
+        "adcode": "63",
+        "name": "青海省"
+      },
+      {
+        "adcode": "64",
+        "name": "宁夏回族自治区"
+      },
+      {
+        "adcode": "65",
+        "name": "新疆维吾尔自治区"
+      },
+      {
+        "adcode": "71",
+        "name": "台湾省"
+      },
+      {
+        "adcode": "81",
+        "name": "香港特别行政区"
+      },
+      {
+        "adcode": "82",
+        "name": "澳门特别行政区"
+      }
+    ]
+  },
+  "11": {
+    "name": "北京市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "1101",
+        "name": "北京市"
+      }
+    ]
+  },
+  "1101": {
+    "name": "北京市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "12": {
+    "name": "天津市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "1201",
+        "name": "天津市"
+      }
+    ]
+  },
+  "1201": {
+    "name": "天津市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "13": {
+    "name": "河北省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "1301",
+        "name": "石家庄市"
+      },
+      {
+        "adcode": "1302",
+        "name": "唐山市"
+      },
+      {
+        "adcode": "1303",
+        "name": "秦皇岛市"
+      },
+      {
+        "adcode": "1304",
+        "name": "邯郸市"
+      },
+      {
+        "adcode": "1305",
+        "name": "邢台市"
+      },
+      {
+        "adcode": "1306",
+        "name": "保定市"
+      },
+      {
+        "adcode": "1307",
+        "name": "张家口市"
+      },
+      {
+        "adcode": "1308",
+        "name": "承德市"
+      },
+      {
+        "adcode": "1309",
+        "name": "沧州市"
+      },
+      {
+        "adcode": "1310",
+        "name": "廊坊市"
+      },
+      {
+        "adcode": "1311",
+        "name": "衡水市"
+      }
+    ]
+  },
+  "1301": {
+    "name": "石家庄市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1302": {
+    "name": "唐山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1303": {
+    "name": "秦皇岛市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1304": {
+    "name": "邯郸市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1305": {
+    "name": "邢台市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1306": {
+    "name": "保定市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1307": {
+    "name": "张家口市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1308": {
+    "name": "承德市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1309": {
+    "name": "沧州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1310": {
+    "name": "廊坊市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1311": {
+    "name": "衡水市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "14": {
+    "name": "山西省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "1401",
+        "name": "太原市"
+      },
+      {
+        "adcode": "1402",
+        "name": "大同市"
+      },
+      {
+        "adcode": "1403",
+        "name": "阳泉市"
+      },
+      {
+        "adcode": "1404",
+        "name": "长治市"
+      },
+      {
+        "adcode": "1405",
+        "name": "晋城市"
+      },
+      {
+        "adcode": "1406",
+        "name": "朔州市"
+      },
+      {
+        "adcode": "1407",
+        "name": "晋中市"
+      },
+      {
+        "adcode": "1408",
+        "name": "运城市"
+      },
+      {
+        "adcode": "1409",
+        "name": "忻州市"
+      },
+      {
+        "adcode": "1410",
+        "name": "临汾市"
+      },
+      {
+        "adcode": "1411",
+        "name": "吕梁市"
+      }
+    ]
+  },
+  "1401": {
+    "name": "太原市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1402": {
+    "name": "大同市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1403": {
+    "name": "阳泉市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1404": {
+    "name": "长治市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1405": {
+    "name": "晋城市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1406": {
+    "name": "朔州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1407": {
+    "name": "晋中市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1408": {
+    "name": "运城市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1409": {
+    "name": "忻州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1410": {
+    "name": "临汾市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1411": {
+    "name": "吕梁市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "15": {
+    "name": "内蒙古自治区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "1501",
+        "name": "呼和浩特市"
+      },
+      {
+        "adcode": "1502",
+        "name": "包头市"
+      },
+      {
+        "adcode": "1503",
+        "name": "乌海市"
+      },
+      {
+        "adcode": "1504",
+        "name": "赤峰市"
+      },
+      {
+        "adcode": "1505",
+        "name": "通辽市"
+      },
+      {
+        "adcode": "1506",
+        "name": "鄂尔多斯市"
+      },
+      {
+        "adcode": "1507",
+        "name": "呼伦贝尔市"
+      },
+      {
+        "adcode": "1508",
+        "name": "巴彦淖尔市"
+      },
+      {
+        "adcode": "1509",
+        "name": "乌兰察布市"
+      },
+      {
+        "adcode": "1522",
+        "name": "兴安盟"
+      },
+      {
+        "adcode": "1525",
+        "name": "锡林郭勒盟"
+      },
+      {
+        "adcode": "1529",
+        "name": "阿拉善盟"
+      }
+    ]
+  },
+  "1501": {
+    "name": "呼和浩特市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1502": {
+    "name": "包头市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1503": {
+    "name": "乌海市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1504": {
+    "name": "赤峰市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1505": {
+    "name": "通辽市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1506": {
+    "name": "鄂尔多斯市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1507": {
+    "name": "呼伦贝尔市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1508": {
+    "name": "巴彦淖尔市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1509": {
+    "name": "乌兰察布市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1522": {
+    "name": "兴安盟",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1525": {
+    "name": "锡林郭勒盟",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "1529": {
+    "name": "阿拉善盟",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "21": {
+    "name": "辽宁省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "2101",
+        "name": "沈阳市"
+      },
+      {
+        "adcode": "2102",
+        "name": "大连市"
+      },
+      {
+        "adcode": "2103",
+        "name": "鞍山市"
+      },
+      {
+        "adcode": "2104",
+        "name": "抚顺市"
+      },
+      {
+        "adcode": "2105",
+        "name": "本溪市"
+      },
+      {
+        "adcode": "2106",
+        "name": "丹东市"
+      },
+      {
+        "adcode": "2107",
+        "name": "锦州市"
+      },
+      {
+        "adcode": "2108",
+        "name": "营口市"
+      },
+      {
+        "adcode": "2109",
+        "name": "阜新市"
+      },
+      {
+        "adcode": "2110",
+        "name": "辽阳市"
+      },
+      {
+        "adcode": "2111",
+        "name": "盘锦市"
+      },
+      {
+        "adcode": "2112",
+        "name": "铁岭市"
+      },
+      {
+        "adcode": "2113",
+        "name": "朝阳市"
+      },
+      {
+        "adcode": "2114",
+        "name": "葫芦岛市"
+      }
+    ]
+  },
+  "2101": {
+    "name": "沈阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2102": {
+    "name": "大连市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2103": {
+    "name": "鞍山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2104": {
+    "name": "抚顺市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2105": {
+    "name": "本溪市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2106": {
+    "name": "丹东市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2107": {
+    "name": "锦州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2108": {
+    "name": "营口市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2109": {
+    "name": "阜新市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2110": {
+    "name": "辽阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2111": {
+    "name": "盘锦市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2112": {
+    "name": "铁岭市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2113": {
+    "name": "朝阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2114": {
+    "name": "葫芦岛市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "22": {
+    "name": "吉林省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "2201",
+        "name": "长春市"
+      },
+      {
+        "adcode": "2202",
+        "name": "吉林市"
+      },
+      {
+        "adcode": "2203",
+        "name": "四平市"
+      },
+      {
+        "adcode": "2204",
+        "name": "辽源市"
+      },
+      {
+        "adcode": "2205",
+        "name": "通化市"
+      },
+      {
+        "adcode": "2206",
+        "name": "白山市"
+      },
+      {
+        "adcode": "2207",
+        "name": "松原市"
+      },
+      {
+        "adcode": "2208",
+        "name": "白城市"
+      },
+      {
+        "adcode": "2224",
+        "name": "延边朝鲜族自治州"
+      }
+    ]
+  },
+  "2201": {
+    "name": "长春市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2202": {
+    "name": "吉林市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2203": {
+    "name": "四平市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2204": {
+    "name": "辽源市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2205": {
+    "name": "通化市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2206": {
+    "name": "白山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2207": {
+    "name": "松原市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2208": {
+    "name": "白城市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2224": {
+    "name": "延边朝鲜族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "23": {
+    "name": "黑龙江省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "2301",
+        "name": "哈尔滨市"
+      },
+      {
+        "adcode": "2302",
+        "name": "齐齐哈尔市"
+      },
+      {
+        "adcode": "2303",
+        "name": "鸡西市"
+      },
+      {
+        "adcode": "2304",
+        "name": "鹤岗市"
+      },
+      {
+        "adcode": "2305",
+        "name": "双鸭山市"
+      },
+      {
+        "adcode": "2306",
+        "name": "大庆市"
+      },
+      {
+        "adcode": "2307",
+        "name": "伊春市"
+      },
+      {
+        "adcode": "2308",
+        "name": "佳木斯市"
+      },
+      {
+        "adcode": "2309",
+        "name": "七台河市"
+      },
+      {
+        "adcode": "2310",
+        "name": "牡丹江市"
+      },
+      {
+        "adcode": "2311",
+        "name": "黑河市"
+      },
+      {
+        "adcode": "2312",
+        "name": "绥化市"
+      },
+      {
+        "adcode": "2327",
+        "name": "大兴安岭地区"
+      }
+    ]
+  },
+  "2301": {
+    "name": "哈尔滨市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2302": {
+    "name": "齐齐哈尔市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2303": {
+    "name": "鸡西市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2304": {
+    "name": "鹤岗市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2305": {
+    "name": "双鸭山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2306": {
+    "name": "大庆市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2307": {
+    "name": "伊春市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2308": {
+    "name": "佳木斯市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2309": {
+    "name": "七台河市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2310": {
+    "name": "牡丹江市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2311": {
+    "name": "黑河市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2312": {
+    "name": "绥化市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "2327": {
+    "name": "大兴安岭地区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "31": {
+    "name": "上海市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "3101",
+        "name": "上海市"
+      }
+    ]
+  },
+  "3101": {
+    "name": "上海市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "32": {
+    "name": "江苏省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "3201",
+        "name": "南京市"
+      },
+      {
+        "adcode": "3202",
+        "name": "无锡市"
+      },
+      {
+        "adcode": "3203",
+        "name": "徐州市"
+      },
+      {
+        "adcode": "3204",
+        "name": "常州市"
+      },
+      {
+        "adcode": "3205",
+        "name": "苏州市"
+      },
+      {
+        "adcode": "3206",
+        "name": "南通市"
+      },
+      {
+        "adcode": "3207",
+        "name": "连云港市"
+      },
+      {
+        "adcode": "3208",
+        "name": "淮安市"
+      },
+      {
+        "adcode": "3209",
+        "name": "盐城市"
+      },
+      {
+        "adcode": "3210",
+        "name": "扬州市"
+      },
+      {
+        "adcode": "3211",
+        "name": "镇江市"
+      },
+      {
+        "adcode": "3212",
+        "name": "泰州市"
+      },
+      {
+        "adcode": "3213",
+        "name": "宿迁市"
+      }
+    ]
+  },
+  "3201": {
+    "name": "南京市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3202": {
+    "name": "无锡市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3203": {
+    "name": "徐州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3204": {
+    "name": "常州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3205": {
+    "name": "苏州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3206": {
+    "name": "南通市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3207": {
+    "name": "连云港市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3208": {
+    "name": "淮安市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3209": {
+    "name": "盐城市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3210": {
+    "name": "扬州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3211": {
+    "name": "镇江市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3212": {
+    "name": "泰州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3213": {
+    "name": "宿迁市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "33": {
+    "name": "浙江省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "3301",
+        "name": "杭州市"
+      },
+      {
+        "adcode": "3302",
+        "name": "宁波市"
+      },
+      {
+        "adcode": "3303",
+        "name": "温州市"
+      },
+      {
+        "adcode": "3304",
+        "name": "嘉兴市"
+      },
+      {
+        "adcode": "3305",
+        "name": "湖州市"
+      },
+      {
+        "adcode": "3306",
+        "name": "绍兴市"
+      },
+      {
+        "adcode": "3307",
+        "name": "金华市"
+      },
+      {
+        "adcode": "3308",
+        "name": "衢州市"
+      },
+      {
+        "adcode": "3309",
+        "name": "舟山市"
+      },
+      {
+        "adcode": "3310",
+        "name": "台州市"
+      },
+      {
+        "adcode": "3311",
+        "name": "丽水市"
+      }
+    ]
+  },
+  "3301": {
+    "name": "杭州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3302": {
+    "name": "宁波市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3303": {
+    "name": "温州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3304": {
+    "name": "嘉兴市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3305": {
+    "name": "湖州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3306": {
+    "name": "绍兴市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3307": {
+    "name": "金华市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3308": {
+    "name": "衢州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3309": {
+    "name": "舟山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3310": {
+    "name": "台州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3311": {
+    "name": "丽水市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "34": {
+    "name": "安徽省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "3401",
+        "name": "合肥市"
+      },
+      {
+        "adcode": "3402",
+        "name": "芜湖市"
+      },
+      {
+        "adcode": "3403",
+        "name": "蚌埠市"
+      },
+      {
+        "adcode": "3404",
+        "name": "淮南市"
+      },
+      {
+        "adcode": "3405",
+        "name": "马鞍山市"
+      },
+      {
+        "adcode": "3406",
+        "name": "淮北市"
+      },
+      {
+        "adcode": "3407",
+        "name": "铜陵市"
+      },
+      {
+        "adcode": "3408",
+        "name": "安庆市"
+      },
+      {
+        "adcode": "3410",
+        "name": "黄山市"
+      },
+      {
+        "adcode": "3411",
+        "name": "滁州市"
+      },
+      {
+        "adcode": "3412",
+        "name": "阜阳市"
+      },
+      {
+        "adcode": "3413",
+        "name": "宿州市"
+      },
+      {
+        "adcode": "3415",
+        "name": "六安市"
+      },
+      {
+        "adcode": "3416",
+        "name": "亳州市"
+      },
+      {
+        "adcode": "3417",
+        "name": "池州市"
+      },
+      {
+        "adcode": "3418",
+        "name": "宣城市"
+      }
+    ]
+  },
+  "3401": {
+    "name": "合肥市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3402": {
+    "name": "芜湖市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3403": {
+    "name": "蚌埠市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3404": {
+    "name": "淮南市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3405": {
+    "name": "马鞍山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3406": {
+    "name": "淮北市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3407": {
+    "name": "铜陵市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3408": {
+    "name": "安庆市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3410": {
+    "name": "黄山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3411": {
+    "name": "滁州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3412": {
+    "name": "阜阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3413": {
+    "name": "宿州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3415": {
+    "name": "六安市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3416": {
+    "name": "亳州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3417": {
+    "name": "池州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3418": {
+    "name": "宣城市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "35": {
+    "name": "福建省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "3501",
+        "name": "福州市"
+      },
+      {
+        "adcode": "3502",
+        "name": "厦门市"
+      },
+      {
+        "adcode": "3503",
+        "name": "莆田市"
+      },
+      {
+        "adcode": "3504",
+        "name": "三明市"
+      },
+      {
+        "adcode": "3505",
+        "name": "泉州市"
+      },
+      {
+        "adcode": "3506",
+        "name": "漳州市"
+      },
+      {
+        "adcode": "3507",
+        "name": "南平市"
+      },
+      {
+        "adcode": "3508",
+        "name": "龙岩市"
+      },
+      {
+        "adcode": "3509",
+        "name": "宁德市"
+      }
+    ]
+  },
+  "3501": {
+    "name": "福州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3502": {
+    "name": "厦门市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3503": {
+    "name": "莆田市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3504": {
+    "name": "三明市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3505": {
+    "name": "泉州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3506": {
+    "name": "漳州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3507": {
+    "name": "南平市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3508": {
+    "name": "龙岩市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3509": {
+    "name": "宁德市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "36": {
+    "name": "江西省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "3601",
+        "name": "南昌市"
+      },
+      {
+        "adcode": "3602",
+        "name": "景德镇市"
+      },
+      {
+        "adcode": "3603",
+        "name": "萍乡市"
+      },
+      {
+        "adcode": "3604",
+        "name": "九江市"
+      },
+      {
+        "adcode": "3605",
+        "name": "新余市"
+      },
+      {
+        "adcode": "3606",
+        "name": "鹰潭市"
+      },
+      {
+        "adcode": "3607",
+        "name": "赣州市"
+      },
+      {
+        "adcode": "3608",
+        "name": "吉安市"
+      },
+      {
+        "adcode": "3609",
+        "name": "宜春市"
+      },
+      {
+        "adcode": "3610",
+        "name": "抚州市"
+      },
+      {
+        "adcode": "3611",
+        "name": "上饶市"
+      }
+    ]
+  },
+  "3601": {
+    "name": "南昌市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3602": {
+    "name": "景德镇市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3603": {
+    "name": "萍乡市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3604": {
+    "name": "九江市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3605": {
+    "name": "新余市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3606": {
+    "name": "鹰潭市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3607": {
+    "name": "赣州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3608": {
+    "name": "吉安市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3609": {
+    "name": "宜春市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3610": {
+    "name": "抚州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3611": {
+    "name": "上饶市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "37": {
+    "name": "山东省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "3701",
+        "name": "济南市"
+      },
+      {
+        "adcode": "3702",
+        "name": "青岛市"
+      },
+      {
+        "adcode": "3703",
+        "name": "淄博市"
+      },
+      {
+        "adcode": "3704",
+        "name": "枣庄市"
+      },
+      {
+        "adcode": "3705",
+        "name": "东营市"
+      },
+      {
+        "adcode": "3706",
+        "name": "烟台市"
+      },
+      {
+        "adcode": "3707",
+        "name": "潍坊市"
+      },
+      {
+        "adcode": "3708",
+        "name": "济宁市"
+      },
+      {
+        "adcode": "3709",
+        "name": "泰安市"
+      },
+      {
+        "adcode": "3710",
+        "name": "威海市"
+      },
+      {
+        "adcode": "3711",
+        "name": "日照市"
+      },
+      {
+        "adcode": "3713",
+        "name": "临沂市"
+      },
+      {
+        "adcode": "3714",
+        "name": "德州市"
+      },
+      {
+        "adcode": "3715",
+        "name": "聊城市"
+      },
+      {
+        "adcode": "3716",
+        "name": "滨州市"
+      },
+      {
+        "adcode": "3717",
+        "name": "菏泽市"
+      }
+    ]
+  },
+  "3701": {
+    "name": "济南市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3702": {
+    "name": "青岛市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3703": {
+    "name": "淄博市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3704": {
+    "name": "枣庄市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3705": {
+    "name": "东营市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3706": {
+    "name": "烟台市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3707": {
+    "name": "潍坊市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3708": {
+    "name": "济宁市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3709": {
+    "name": "泰安市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3710": {
+    "name": "威海市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3711": {
+    "name": "日照市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3713": {
+    "name": "临沂市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3714": {
+    "name": "德州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3715": {
+    "name": "聊城市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3716": {
+    "name": "滨州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "3717": {
+    "name": "菏泽市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "41": {
+    "name": "河南省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "4101",
+        "name": "郑州市"
+      },
+      {
+        "adcode": "4102",
+        "name": "开封市"
+      },
+      {
+        "adcode": "4103",
+        "name": "洛阳市"
+      },
+      {
+        "adcode": "4104",
+        "name": "平顶山市"
+      },
+      {
+        "adcode": "4105",
+        "name": "安阳市"
+      },
+      {
+        "adcode": "4106",
+        "name": "鹤壁市"
+      },
+      {
+        "adcode": "4107",
+        "name": "新乡市"
+      },
+      {
+        "adcode": "4108",
+        "name": "焦作市"
+      },
+      {
+        "adcode": "4109",
+        "name": "濮阳市"
+      },
+      {
+        "adcode": "4110",
+        "name": "许昌市"
+      },
+      {
+        "adcode": "4111",
+        "name": "漯河市"
+      },
+      {
+        "adcode": "4112",
+        "name": "三门峡市"
+      },
+      {
+        "adcode": "4113",
+        "name": "南阳市"
+      },
+      {
+        "adcode": "4114",
+        "name": "商丘市"
+      },
+      {
+        "adcode": "4115",
+        "name": "信阳市"
+      },
+      {
+        "adcode": "4116",
+        "name": "周口市"
+      },
+      {
+        "adcode": "4117",
+        "name": "驻马店市"
+      },
+      {
+        "adcode": "419001",
+        "name": "济源市"
+      }
+    ]
+  },
+  "4101": {
+    "name": "郑州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4102": {
+    "name": "开封市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4103": {
+    "name": "洛阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4104": {
+    "name": "平顶山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4105": {
+    "name": "安阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4106": {
+    "name": "鹤壁市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4107": {
+    "name": "新乡市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4108": {
+    "name": "焦作市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4109": {
+    "name": "濮阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4110": {
+    "name": "许昌市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4111": {
+    "name": "漯河市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4112": {
+    "name": "三门峡市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4113": {
+    "name": "南阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4114": {
+    "name": "商丘市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4115": {
+    "name": "信阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4116": {
+    "name": "周口市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4117": {
+    "name": "驻马店市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "419001": {
+    "name": "济源市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "42": {
+    "name": "湖北省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "4201",
+        "name": "武汉市"
+      },
+      {
+        "adcode": "4202",
+        "name": "黄石市"
+      },
+      {
+        "adcode": "4203",
+        "name": "十堰市"
+      },
+      {
+        "adcode": "4205",
+        "name": "宜昌市"
+      },
+      {
+        "adcode": "4206",
+        "name": "襄阳市"
+      },
+      {
+        "adcode": "4207",
+        "name": "鄂州市"
+      },
+      {
+        "adcode": "4208",
+        "name": "荆门市"
+      },
+      {
+        "adcode": "4209",
+        "name": "孝感市"
+      },
+      {
+        "adcode": "4210",
+        "name": "荆州市"
+      },
+      {
+        "adcode": "4211",
+        "name": "黄冈市"
+      },
+      {
+        "adcode": "4212",
+        "name": "咸宁市"
+      },
+      {
+        "adcode": "4213",
+        "name": "随州市"
+      },
+      {
+        "adcode": "4228",
+        "name": "恩施土家族苗族自治州"
+      },
+      {
+        "adcode": "429004",
+        "name": "仙桃市"
+      },
+      {
+        "adcode": "429005",
+        "name": "潜江市"
+      },
+      {
+        "adcode": "429006",
+        "name": "天门市"
+      },
+      {
+        "adcode": "429021",
+        "name": "神农架林区"
+      }
+    ]
+  },
+  "4201": {
+    "name": "武汉市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4202": {
+    "name": "黄石市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4203": {
+    "name": "十堰市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4205": {
+    "name": "宜昌市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4206": {
+    "name": "襄阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4207": {
+    "name": "鄂州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4208": {
+    "name": "荆门市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4209": {
+    "name": "孝感市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4210": {
+    "name": "荆州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4211": {
+    "name": "黄冈市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4212": {
+    "name": "咸宁市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4213": {
+    "name": "随州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4228": {
+    "name": "恩施土家族苗族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "429004": {
+    "name": "仙桃市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "429005": {
+    "name": "潜江市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "429006": {
+    "name": "天门市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "429021": {
+    "name": "神农架林区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "43": {
+    "name": "湖南省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "4301",
+        "name": "长沙市"
+      },
+      {
+        "adcode": "4302",
+        "name": "株洲市"
+      },
+      {
+        "adcode": "4303",
+        "name": "湘潭市"
+      },
+      {
+        "adcode": "4304",
+        "name": "衡阳市"
+      },
+      {
+        "adcode": "4305",
+        "name": "邵阳市"
+      },
+      {
+        "adcode": "4306",
+        "name": "岳阳市"
+      },
+      {
+        "adcode": "4307",
+        "name": "常德市"
+      },
+      {
+        "adcode": "4308",
+        "name": "张家界市"
+      },
+      {
+        "adcode": "4309",
+        "name": "益阳市"
+      },
+      {
+        "adcode": "4310",
+        "name": "郴州市"
+      },
+      {
+        "adcode": "4311",
+        "name": "永州市"
+      },
+      {
+        "adcode": "4312",
+        "name": "怀化市"
+      },
+      {
+        "adcode": "4313",
+        "name": "娄底市"
+      },
+      {
+        "adcode": "4331",
+        "name": "湘西土家族苗族自治州"
+      }
+    ]
+  },
+  "4301": {
+    "name": "长沙市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4302": {
+    "name": "株洲市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4303": {
+    "name": "湘潭市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4304": {
+    "name": "衡阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4305": {
+    "name": "邵阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4306": {
+    "name": "岳阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4307": {
+    "name": "常德市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4308": {
+    "name": "张家界市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4309": {
+    "name": "益阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4310": {
+    "name": "郴州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4311": {
+    "name": "永州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4312": {
+    "name": "怀化市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4313": {
+    "name": "娄底市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4331": {
+    "name": "湘西土家族苗族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "44": {
+    "name": "广东省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "4401",
+        "name": "广州市"
+      },
+      {
+        "adcode": "4402",
+        "name": "韶关市"
+      },
+      {
+        "adcode": "4403",
+        "name": "深圳市"
+      },
+      {
+        "adcode": "4404",
+        "name": "珠海市"
+      },
+      {
+        "adcode": "4405",
+        "name": "汕头市"
+      },
+      {
+        "adcode": "4406",
+        "name": "佛山市"
+      },
+      {
+        "adcode": "4407",
+        "name": "江门市"
+      },
+      {
+        "adcode": "4408",
+        "name": "湛江市"
+      },
+      {
+        "adcode": "4409",
+        "name": "茂名市"
+      },
+      {
+        "adcode": "4412",
+        "name": "肇庆市"
+      },
+      {
+        "adcode": "4413",
+        "name": "惠州市"
+      },
+      {
+        "adcode": "4414",
+        "name": "梅州市"
+      },
+      {
+        "adcode": "4415",
+        "name": "汕尾市"
+      },
+      {
+        "adcode": "4416",
+        "name": "河源市"
+      },
+      {
+        "adcode": "4417",
+        "name": "阳江市"
+      },
+      {
+        "adcode": "4418",
+        "name": "清远市"
+      },
+      {
+        "adcode": "4419",
+        "name": "东莞市"
+      },
+      {
+        "adcode": "4420",
+        "name": "中山市"
+      },
+      {
+        "adcode": "4451",
+        "name": "潮州市"
+      },
+      {
+        "adcode": "4452",
+        "name": "揭阳市"
+      },
+      {
+        "adcode": "4453",
+        "name": "云浮市"
+      }
+    ]
+  },
+  "4401": {
+    "name": "广州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4402": {
+    "name": "韶关市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4403": {
+    "name": "深圳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4404": {
+    "name": "珠海市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4405": {
+    "name": "汕头市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4406": {
+    "name": "佛山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4407": {
+    "name": "江门市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4408": {
+    "name": "湛江市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4409": {
+    "name": "茂名市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4412": {
+    "name": "肇庆市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4413": {
+    "name": "惠州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4414": {
+    "name": "梅州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4415": {
+    "name": "汕尾市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4416": {
+    "name": "河源市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4417": {
+    "name": "阳江市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4418": {
+    "name": "清远市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4419": {
+    "name": "东莞市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4420": {
+    "name": "中山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4451": {
+    "name": "潮州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4452": {
+    "name": "揭阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4453": {
+    "name": "云浮市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "45": {
+    "name": "广西壮族自治区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "4501",
+        "name": "南宁市"
+      },
+      {
+        "adcode": "4502",
+        "name": "柳州市"
+      },
+      {
+        "adcode": "4503",
+        "name": "桂林市"
+      },
+      {
+        "adcode": "4504",
+        "name": "梧州市"
+      },
+      {
+        "adcode": "4505",
+        "name": "北海市"
+      },
+      {
+        "adcode": "4506",
+        "name": "防城港市"
+      },
+      {
+        "adcode": "4507",
+        "name": "钦州市"
+      },
+      {
+        "adcode": "4508",
+        "name": "贵港市"
+      },
+      {
+        "adcode": "4509",
+        "name": "玉林市"
+      },
+      {
+        "adcode": "4510",
+        "name": "百色市"
+      },
+      {
+        "adcode": "4511",
+        "name": "贺州市"
+      },
+      {
+        "adcode": "4512",
+        "name": "河池市"
+      },
+      {
+        "adcode": "4513",
+        "name": "来宾市"
+      },
+      {
+        "adcode": "4514",
+        "name": "崇左市"
+      }
+    ]
+  },
+  "4501": {
+    "name": "南宁市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4502": {
+    "name": "柳州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4503": {
+    "name": "桂林市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4504": {
+    "name": "梧州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4505": {
+    "name": "北海市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4506": {
+    "name": "防城港市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4507": {
+    "name": "钦州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4508": {
+    "name": "贵港市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4509": {
+    "name": "玉林市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4510": {
+    "name": "百色市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4511": {
+    "name": "贺州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4512": {
+    "name": "河池市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4513": {
+    "name": "来宾市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4514": {
+    "name": "崇左市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "46": {
+    "name": "海南省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "4601",
+        "name": "海口市"
+      },
+      {
+        "adcode": "4602",
+        "name": "三亚市"
+      },
+      {
+        "adcode": "4603",
+        "name": "三沙市"
+      },
+      {
+        "adcode": "4604",
+        "name": "儋州市"
+      },
+      {
+        "adcode": "469001",
+        "name": "五指山市"
+      },
+      {
+        "adcode": "469002",
+        "name": "琼海市"
+      },
+      {
+        "adcode": "469005",
+        "name": "文昌市"
+      },
+      {
+        "adcode": "469006",
+        "name": "万宁市"
+      },
+      {
+        "adcode": "469007",
+        "name": "东方市"
+      },
+      {
+        "adcode": "469021",
+        "name": "定安县"
+      },
+      {
+        "adcode": "469022",
+        "name": "屯昌县"
+      },
+      {
+        "adcode": "469023",
+        "name": "澄迈县"
+      },
+      {
+        "adcode": "469024",
+        "name": "临高县"
+      },
+      {
+        "adcode": "469025",
+        "name": "白沙黎族自治县"
+      },
+      {
+        "adcode": "469026",
+        "name": "昌江黎族自治县"
+      },
+      {
+        "adcode": "469027",
+        "name": "乐东黎族自治县"
+      },
+      {
+        "adcode": "469028",
+        "name": "陵水黎族自治县"
+      },
+      {
+        "adcode": "469029",
+        "name": "保亭黎族苗族自治县"
+      },
+      {
+        "adcode": "469030",
+        "name": "琼中黎族苗族自治县"
+      }
+    ]
+  },
+  "4601": {
+    "name": "海口市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4602": {
+    "name": "三亚市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4603": {
+    "name": "三沙市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "4604": {
+    "name": "儋州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469001": {
+    "name": "五指山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469002": {
+    "name": "琼海市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469005": {
+    "name": "文昌市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469006": {
+    "name": "万宁市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469007": {
+    "name": "东方市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469021": {
+    "name": "定安县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469022": {
+    "name": "屯昌县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469023": {
+    "name": "澄迈县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469024": {
+    "name": "临高县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469025": {
+    "name": "白沙黎族自治县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469026": {
+    "name": "昌江黎族自治县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469027": {
+    "name": "乐东黎族自治县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469028": {
+    "name": "陵水黎族自治县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469029": {
+    "name": "保亭黎族苗族自治县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "469030": {
+    "name": "琼中黎族苗族自治县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "50": {
+    "name": "重庆市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "5001",
+        "name": "重庆城区"
+      },
+      {
+        "adcode": "5002",
+        "name": "重庆郊县"
+      }
+    ]
+  },
+  "5001": {
+    "name": "重庆城区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5002": {
+    "name": "重庆郊县",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "51": {
+    "name": "四川省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "5101",
+        "name": "成都市"
+      },
+      {
+        "adcode": "5103",
+        "name": "自贡市"
+      },
+      {
+        "adcode": "5104",
+        "name": "攀枝花市"
+      },
+      {
+        "adcode": "5105",
+        "name": "泸州市"
+      },
+      {
+        "adcode": "5106",
+        "name": "德阳市"
+      },
+      {
+        "adcode": "5107",
+        "name": "绵阳市"
+      },
+      {
+        "adcode": "5108",
+        "name": "广元市"
+      },
+      {
+        "adcode": "5109",
+        "name": "遂宁市"
+      },
+      {
+        "adcode": "5110",
+        "name": "内江市"
+      },
+      {
+        "adcode": "5111",
+        "name": "乐山市"
+      },
+      {
+        "adcode": "5113",
+        "name": "南充市"
+      },
+      {
+        "adcode": "5114",
+        "name": "眉山市"
+      },
+      {
+        "adcode": "5115",
+        "name": "宜宾市"
+      },
+      {
+        "adcode": "5116",
+        "name": "广安市"
+      },
+      {
+        "adcode": "5117",
+        "name": "达州市"
+      },
+      {
+        "adcode": "5118",
+        "name": "雅安市"
+      },
+      {
+        "adcode": "5119",
+        "name": "巴中市"
+      },
+      {
+        "adcode": "5120",
+        "name": "资阳市"
+      },
+      {
+        "adcode": "5132",
+        "name": "阿坝藏族羌族自治州"
+      },
+      {
+        "adcode": "5133",
+        "name": "甘孜藏族自治州"
+      },
+      {
+        "adcode": "5134",
+        "name": "凉山彝族自治州"
+      }
+    ]
+  },
+  "5101": {
+    "name": "成都市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5103": {
+    "name": "自贡市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5104": {
+    "name": "攀枝花市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5105": {
+    "name": "泸州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5106": {
+    "name": "德阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5107": {
+    "name": "绵阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5108": {
+    "name": "广元市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5109": {
+    "name": "遂宁市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5110": {
+    "name": "内江市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5111": {
+    "name": "乐山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5113": {
+    "name": "南充市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5114": {
+    "name": "眉山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5115": {
+    "name": "宜宾市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5116": {
+    "name": "广安市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5117": {
+    "name": "达州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5118": {
+    "name": "雅安市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5119": {
+    "name": "巴中市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5120": {
+    "name": "资阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5132": {
+    "name": "阿坝藏族羌族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5133": {
+    "name": "甘孜藏族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5134": {
+    "name": "凉山彝族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "52": {
+    "name": "贵州省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "5201",
+        "name": "贵阳市"
+      },
+      {
+        "adcode": "5202",
+        "name": "六盘水市"
+      },
+      {
+        "adcode": "5203",
+        "name": "遵义市"
+      },
+      {
+        "adcode": "5204",
+        "name": "安顺市"
+      },
+      {
+        "adcode": "5205",
+        "name": "毕节市"
+      },
+      {
+        "adcode": "5206",
+        "name": "铜仁市"
+      },
+      {
+        "adcode": "5223",
+        "name": "黔西南布依族苗族自治州"
+      },
+      {
+        "adcode": "5226",
+        "name": "黔东南苗族侗族自治州"
+      },
+      {
+        "adcode": "5227",
+        "name": "黔南布依族苗族自治州"
+      }
+    ]
+  },
+  "5201": {
+    "name": "贵阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5202": {
+    "name": "六盘水市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5203": {
+    "name": "遵义市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5204": {
+    "name": "安顺市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5205": {
+    "name": "毕节市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5206": {
+    "name": "铜仁市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5223": {
+    "name": "黔西南布依族苗族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5226": {
+    "name": "黔东南苗族侗族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5227": {
+    "name": "黔南布依族苗族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "53": {
+    "name": "云南省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "5301",
+        "name": "昆明市"
+      },
+      {
+        "adcode": "5303",
+        "name": "曲靖市"
+      },
+      {
+        "adcode": "5304",
+        "name": "玉溪市"
+      },
+      {
+        "adcode": "5305",
+        "name": "保山市"
+      },
+      {
+        "adcode": "5306",
+        "name": "昭通市"
+      },
+      {
+        "adcode": "5307",
+        "name": "丽江市"
+      },
+      {
+        "adcode": "5308",
+        "name": "普洱市"
+      },
+      {
+        "adcode": "5309",
+        "name": "临沧市"
+      },
+      {
+        "adcode": "5323",
+        "name": "楚雄彝族自治州"
+      },
+      {
+        "adcode": "5325",
+        "name": "红河哈尼族彝族自治州"
+      },
+      {
+        "adcode": "5326",
+        "name": "文山壮族苗族自治州"
+      },
+      {
+        "adcode": "5328",
+        "name": "西双版纳傣族自治州"
+      },
+      {
+        "adcode": "5329",
+        "name": "大理白族自治州"
+      },
+      {
+        "adcode": "5331",
+        "name": "德宏傣族景颇族自治州"
+      },
+      {
+        "adcode": "5333",
+        "name": "怒江傈僳族自治州"
+      },
+      {
+        "adcode": "5334",
+        "name": "迪庆藏族自治州"
+      }
+    ]
+  },
+  "5301": {
+    "name": "昆明市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5303": {
+    "name": "曲靖市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5304": {
+    "name": "玉溪市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5305": {
+    "name": "保山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5306": {
+    "name": "昭通市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5307": {
+    "name": "丽江市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5308": {
+    "name": "普洱市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5309": {
+    "name": "临沧市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5323": {
+    "name": "楚雄彝族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5325": {
+    "name": "红河哈尼族彝族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5326": {
+    "name": "文山壮族苗族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5328": {
+    "name": "西双版纳傣族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5329": {
+    "name": "大理白族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5331": {
+    "name": "德宏傣族景颇族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5333": {
+    "name": "怒江傈僳族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5334": {
+    "name": "迪庆藏族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "54": {
+    "name": "西藏自治区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "5401",
+        "name": "拉萨市"
+      },
+      {
+        "adcode": "5402",
+        "name": "日喀则市"
+      },
+      {
+        "adcode": "5403",
+        "name": "昌都市"
+      },
+      {
+        "adcode": "5404",
+        "name": "林芝市"
+      },
+      {
+        "adcode": "5405",
+        "name": "山南市"
+      },
+      {
+        "adcode": "5406",
+        "name": "那曲市"
+      },
+      {
+        "adcode": "5425",
+        "name": "阿里地区"
+      }
+    ]
+  },
+  "5401": {
+    "name": "拉萨市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5402": {
+    "name": "日喀则市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5403": {
+    "name": "昌都市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5404": {
+    "name": "林芝市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5405": {
+    "name": "山南市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5406": {
+    "name": "那曲市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "5425": {
+    "name": "阿里地区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "61": {
+    "name": "陕西省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "6101",
+        "name": "西安市"
+      },
+      {
+        "adcode": "6102",
+        "name": "铜川市"
+      },
+      {
+        "adcode": "6103",
+        "name": "宝鸡市"
+      },
+      {
+        "adcode": "6104",
+        "name": "咸阳市"
+      },
+      {
+        "adcode": "6105",
+        "name": "渭南市"
+      },
+      {
+        "adcode": "6106",
+        "name": "延安市"
+      },
+      {
+        "adcode": "6107",
+        "name": "汉中市"
+      },
+      {
+        "adcode": "6108",
+        "name": "榆林市"
+      },
+      {
+        "adcode": "6109",
+        "name": "安康市"
+      },
+      {
+        "adcode": "6110",
+        "name": "商洛市"
+      }
+    ]
+  },
+  "6101": {
+    "name": "西安市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6102": {
+    "name": "铜川市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6103": {
+    "name": "宝鸡市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6104": {
+    "name": "咸阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6105": {
+    "name": "渭南市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6106": {
+    "name": "延安市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6107": {
+    "name": "汉中市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6108": {
+    "name": "榆林市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6109": {
+    "name": "安康市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6110": {
+    "name": "商洛市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "62": {
+    "name": "甘肃省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "6201",
+        "name": "兰州市"
+      },
+      {
+        "adcode": "6202",
+        "name": "嘉峪关市"
+      },
+      {
+        "adcode": "6203",
+        "name": "金昌市"
+      },
+      {
+        "adcode": "6204",
+        "name": "白银市"
+      },
+      {
+        "adcode": "6205",
+        "name": "天水市"
+      },
+      {
+        "adcode": "6206",
+        "name": "武威市"
+      },
+      {
+        "adcode": "6207",
+        "name": "张掖市"
+      },
+      {
+        "adcode": "6208",
+        "name": "平凉市"
+      },
+      {
+        "adcode": "6209",
+        "name": "酒泉市"
+      },
+      {
+        "adcode": "6210",
+        "name": "庆阳市"
+      },
+      {
+        "adcode": "6211",
+        "name": "定西市"
+      },
+      {
+        "adcode": "6212",
+        "name": "陇南市"
+      },
+      {
+        "adcode": "6229",
+        "name": "临夏回族自治州"
+      },
+      {
+        "adcode": "6230",
+        "name": "甘南藏族自治州"
+      }
+    ]
+  },
+  "6201": {
+    "name": "兰州市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6202": {
+    "name": "嘉峪关市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6203": {
+    "name": "金昌市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6204": {
+    "name": "白银市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6205": {
+    "name": "天水市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6206": {
+    "name": "武威市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6207": {
+    "name": "张掖市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6208": {
+    "name": "平凉市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6209": {
+    "name": "酒泉市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6210": {
+    "name": "庆阳市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6211": {
+    "name": "定西市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6212": {
+    "name": "陇南市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6229": {
+    "name": "临夏回族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6230": {
+    "name": "甘南藏族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "63": {
+    "name": "青海省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "6301",
+        "name": "西宁市"
+      },
+      {
+        "adcode": "6302",
+        "name": "海东市"
+      },
+      {
+        "adcode": "6322",
+        "name": "海北藏族自治州"
+      },
+      {
+        "adcode": "6323",
+        "name": "黄南藏族自治州"
+      },
+      {
+        "adcode": "6325",
+        "name": "海南藏族自治州"
+      },
+      {
+        "adcode": "6326",
+        "name": "果洛藏族自治州"
+      },
+      {
+        "adcode": "6327",
+        "name": "玉树藏族自治州"
+      },
+      {
+        "adcode": "6328",
+        "name": "海西蒙古族藏族自治州"
+      }
+    ]
+  },
+  "6301": {
+    "name": "西宁市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6302": {
+    "name": "海东市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6322": {
+    "name": "海北藏族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6323": {
+    "name": "黄南藏族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6325": {
+    "name": "海南藏族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6326": {
+    "name": "果洛藏族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6327": {
+    "name": "玉树藏族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6328": {
+    "name": "海西蒙古族藏族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "64": {
+    "name": "宁夏回族自治区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "6401",
+        "name": "银川市"
+      },
+      {
+        "adcode": "6402",
+        "name": "石嘴山市"
+      },
+      {
+        "adcode": "6403",
+        "name": "吴忠市"
+      },
+      {
+        "adcode": "6404",
+        "name": "固原市"
+      },
+      {
+        "adcode": "6405",
+        "name": "中卫市"
+      }
+    ]
+  },
+  "6401": {
+    "name": "银川市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6402": {
+    "name": "石嘴山市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6403": {
+    "name": "吴忠市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6404": {
+    "name": "固原市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6405": {
+    "name": "中卫市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "65": {
+    "name": "新疆维吾尔自治区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "6501",
+        "name": "乌鲁木齐市"
+      },
+      {
+        "adcode": "6502",
+        "name": "克拉玛依市"
+      },
+      {
+        "adcode": "6504",
+        "name": "吐鲁番市"
+      },
+      {
+        "adcode": "6505",
+        "name": "哈密市"
+      },
+      {
+        "adcode": "6523",
+        "name": "昌吉回族自治州"
+      },
+      {
+        "adcode": "6527",
+        "name": "博尔塔拉蒙古自治州"
+      },
+      {
+        "adcode": "6528",
+        "name": "巴音郭楞蒙古自治州"
+      },
+      {
+        "adcode": "6529",
+        "name": "阿克苏地区"
+      },
+      {
+        "adcode": "6530",
+        "name": "克孜勒苏柯尔克孜自治州"
+      },
+      {
+        "adcode": "6531",
+        "name": "喀什地区"
+      },
+      {
+        "adcode": "6532",
+        "name": "和田地区"
+      },
+      {
+        "adcode": "6540",
+        "name": "伊犁哈萨克自治州"
+      },
+      {
+        "adcode": "6542",
+        "name": "塔城地区"
+      },
+      {
+        "adcode": "6543",
+        "name": "阿勒泰地区"
+      },
+      {
+        "adcode": "659001",
+        "name": "石河子市"
+      },
+      {
+        "adcode": "659002",
+        "name": "阿拉尔市"
+      },
+      {
+        "adcode": "659003",
+        "name": "图木舒克市"
+      },
+      {
+        "adcode": "659004",
+        "name": "五家渠市"
+      },
+      {
+        "adcode": "659005",
+        "name": "北屯市"
+      },
+      {
+        "adcode": "659006",
+        "name": "铁门关市"
+      },
+      {
+        "adcode": "659007",
+        "name": "双河市"
+      },
+      {
+        "adcode": "659008",
+        "name": "可克达拉市"
+      },
+      {
+        "adcode": "659009",
+        "name": "昆玉市"
+      },
+      {
+        "adcode": "659010",
+        "name": "胡杨河市"
+      },
+      {
+        "adcode": "659011",
+        "name": "新星市"
+      }
+    ]
+  },
+  "6501": {
+    "name": "乌鲁木齐市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6502": {
+    "name": "克拉玛依市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6504": {
+    "name": "吐鲁番市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6505": {
+    "name": "哈密市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6523": {
+    "name": "昌吉回族自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6527": {
+    "name": "博尔塔拉蒙古自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6528": {
+    "name": "巴音郭楞蒙古自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6529": {
+    "name": "阿克苏地区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6530": {
+    "name": "克孜勒苏柯尔克孜自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6531": {
+    "name": "喀什地区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6532": {
+    "name": "和田地区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6540": {
+    "name": "伊犁哈萨克自治州",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6542": {
+    "name": "塔城地区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "6543": {
+    "name": "阿勒泰地区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659001": {
+    "name": "石河子市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659002": {
+    "name": "阿拉尔市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659003": {
+    "name": "图木舒克市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659004": {
+    "name": "五家渠市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659005": {
+    "name": "北屯市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659006": {
+    "name": "铁门关市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659007": {
+    "name": "双河市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659008": {
+    "name": "可克达拉市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659009": {
+    "name": "昆玉市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659010": {
+    "name": "胡杨河市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "659011": {
+    "name": "新星市",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": [
+      {
+        "adcode": "659011000",
+        "name": "新星市"
+      }
+    ]
+  },
+  "71": {
+    "name": "台湾省",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": []
+  },
+  "81": {
+    "name": "香港特别行政区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "8100",
+        "name": "香港特别行政区"
+      }
+    ]
+  },
+  "8100": {
+    "name": "香港特别行政区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  },
+  "82": {
+    "name": "澳门特别行政区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "province",
+    "children": [
+      {
+        "adcode": "8200",
+        "name": "澳门特别行政区"
+      }
+    ]
+  },
+  "8200": {
+    "name": "澳门特别行政区",
+    "center": [
+      0,
+      0
+    ],
+    "centroid": [
+      0,
+      0
+    ],
+    "level": "city",
+    "children": []
+  }
+}
